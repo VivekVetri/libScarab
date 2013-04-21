@@ -1,0 +1,4 @@
+libScarab
+=========
+
+Scarab library
